@@ -6,8 +6,6 @@
 
 <!-- Su documentación aquí -->
 
-
-https://docs.google.com/presentation/d/1Rs4hyh27nP7F4-jkaNV1hKDCfeuftUbh/edit?usp=sharing&ouid=107682629358783500506&rtpof=true&sd=true
-
+[Aactividad 3](https://docs.google.com/presentation/d/1Ks1QuvvBv9yuhs2D5B6VPnMbrDF6hRaZ/edit?usp=sharing&ouid=107682629358783500506&rtpof=true&sd=true)
 
 
